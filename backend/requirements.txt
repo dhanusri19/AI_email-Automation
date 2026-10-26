@@ -1,0 +1,8 @@
+flask
+flask-cors
+pandas
+openpyxl
+pymysql
+python-dotenv
+reportlab
+cryptography
